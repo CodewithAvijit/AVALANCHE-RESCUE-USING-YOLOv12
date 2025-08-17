@@ -6,7 +6,7 @@
 This project leverages **deep learning (PyTorch)** and **computer vision** to assist in **search and rescue operations** using real-time or static image/video inputs.
 
 ---
-## 🖼️ UI
+## 🖼️ IMAGE PROCESSING
 
 ### YOLOv12/
 ![User Interface 1](TEST/testimage/test1.jpg)  
