@@ -10,8 +10,8 @@ This project leverages **deep learning (PyTorch)** and **computer vision** to as
 
 ### YOLOv12
 
-![User Interface 1](testimage\test1.jpg)  
-![User Interface 2](testimage\test2.jpg)
+![User Interface 1](TEST\test1.jpg)  
+![User Interface 2](TEST\test2.jpg)
 
 ## 📌 Features
 - 🎯 **Object Detection** using YOLOv8 (`ultralytics`).
